@@ -6,8 +6,8 @@ Meu nome é João Gabriel
 - Estou me desenvolvendo na linguagem Javascript
 - utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- ### você entrar em contato comigo
+você pode entrar em contato comigo
 
-- 00001108713130sp@al.educacao.gov.br
+00001108713130sp@al.educacao.gov.br
 
-- @2joaogt
+@2joaogt
